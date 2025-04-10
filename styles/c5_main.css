@@ -35,6 +35,8 @@ main h1 {
     padding: .3em 0;
     border-top: 3px solid #931420;
     border-bottom: 3px solid #931420;
+    border-radius: 10px;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);
 }
 
 main h2 {
